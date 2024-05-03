@@ -5,7 +5,7 @@ Developer:  **Team Infinity**, Apr 2024
 
 
 # Table of Contents:
-1. [About](#about)
+1. [About](#about) 
 2. [Project Goals: ](#project-goals)
     1. [UX Design - Strategy ](#ux-design-strategy) 
     2. [UX Design - Strategy - Competitor Portals](#ux-design-strategy-analysis-of-competitors)
